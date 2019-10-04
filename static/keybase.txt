@@ -1,0 +1,89 @@
+==================================================================
+  https://keybase.io/alexwhan
+--------------------------------------------------------------------
+  
+  I hereby claim:
+  
+  * I am an admin of https://alexwhan.com
+* I am alexwhan (https://keybase.io/alexwhan) on keybase.
+* I have a public key with fingerprint 4656 76CF 6352 8BA7 A202  F28E CB71 D456 4EA3 3704
+
+To do so, I am signing this object:
+  
+  {
+    "body": {
+      "key": {
+        "eldest_kid": "0120317846f9d0548420241ca4ecd478a27b0c0706ea9901a7da49b1a6ef7eb322990a",
+        "fingerprint": "465676cf63528ba7a202f28ecb71d4564ea33704",
+        "host": "keybase.io",
+        "key_id": "cb71d4564ea33704",
+        "kid": "010146e4158a74be6cd7c52ebb19622bd9e4a6ecd5ab05dc8d493c0ba94583cd45fc0a",
+        "uid": "0f22ad71f9693634149fbbe4e1d3f219",
+        "username": "alexwhan"
+      },
+      "merkle_root": {
+        "ctime": 1570148013,
+        "hash_meta": "2c6909d2f7d8a061ca6605279f785aa8a08d73c0b18bfc044f632fc8260f0608",
+        "seqno": 7857228
+      },
+      "revoke": {
+        "sig_ids": [
+          "ce937040d7cd2c4c10bd36ccc718558b26e090171211c76226c2625fec2260fc0f"
+          ]
+      },
+      "service": {
+        "hostname": "alexwhan.com",
+        "protocol": "https:"
+      },
+      "type": "web_service_binding",
+      "version": 1
+    },
+    "ctime": 1570148014,
+    "expire_in": 157680000,
+    "prev": "c90666de611df03f9688de2667993989f773ec9f0cf132c1239541deaa58c12e",
+    "seqno": 17,
+    "tag": "signature"
+  }
+
+which yields the signature:
+  
+  -----BEGIN PGP MESSAGE-----
+  Version: Keybase OpenPGP v2.1.3
+Comment: https://keybase.io/crypto
+
+yMP7AnicbZN7bBRFHMevPIQ2NSXVK4hizSIIoS07s7szu4dQCKBRIoQQC0lpr7Oz
+s72jd7vXveu10Aev8igWEHxQXkaBFBQhxyNiNYptLSEtTSRQSUhoSUBbRCrGBAmU
+6myVmBD3n8385vv7/b6/z8x8//RwT0pSR+nlvIUH8YikjpZ4mafgw23HKwXdNlYK
+vkqhhA39WMhg0Zi/JGgIPkEEUJQAVmVkaoaoyKoMRSgDSmRGDRmrBGJdpCIWESOa
+JgKCDSJrOiCImZjpEoQ8SoQswQxaxcyJOEErxsvKSEEYURNJClR1ggmvakKVUR0D
+Q1aQzIgkYVHmiQE76mZwczqJspygzWN84R+y9z/6x75FICMmA0UlWNYZogamCmS6
+DjQEoW5oTOYeqaEQXVQMqhqyJlFRJ5qsqBIfTTHpkO+yf8qZEBIDA1NDmoQkGcia
+qetMZsCQTAg0VxhljkXCjKtJiFWUB4glVGcJYeaUhJjfse2YC5fGgq4EKJj7U0Ug
+8QFJNOAPsxjhmZAiTdQMaGJDJSLinBESFYg1E6sKITymGtj1CVSdG5RlThCaVIVI
+NEUkqtxHlJVatuDjegyhyh04LG6XMLd5NFjMsUUFX75AmebyEjkVA1KZAlE3JEQp
+xUBVFFWHiIn8ODGAAFDMiSEKEVRMRqHbi4qmUFDtNnPiQTpU3D2nJ+bPoXaYO4o4
+dsymdojvBGKxSNTncomtjLjScqb7/y3i14OWwW8Jz4gzJxq0Lc6JK59EJmcJrCIS
+dJg/aA2FkSryz+3D4u6d0ESEkMEQAIYpSvzIVNVgECGsaZKmcpRYYlQzRWoCCVIA
+JU2RgcEIUVS+Yv8xBJj7JMW8JidnkViZw4TqlublIzxJKZ6nRg5zn48nJXnM40fV
+b6QNTiq4MLPkk+Mha93OrvsLt/9euKRj8qjbXz30Tpt1p2n8Ne+OF47Nr/Jf7Dhw
+fjBBO1pyM3oHTizOnzNj8/Si1ILPxg94H/Y1/bzmlLXlVHWVZ93YE+CP+sgriQOr
+u9TlnstNUz8YvWLgUa83bVnXG1vfn70ie+qw3/JWLy4qXFRY336p4ULdzZ6JNXW9
+Exd8fXTetJvJ3nn5aNyb4VD2vnGT43O7zxWfb85NvzGnYMOkS3sznAkVgYuR2kX7
+AnmdJw+drkqvO7v19p4klPj2YOf11BnfNe69VpaX9Xb3nciaL5+/dnXHq2Pj2Wbx
+n6O9Kdu/Kb1eeaT12Z+eObl2/a5ZA/H+nPaTX1x56Ub2tNLOLalN/poHcuv8XfVX
+a1Mb04zQa62kO9QR63UmJePBJQty1/S1NNRkNh8rfi5ceXT/leF3D7+zatjhsjp7
+RAXaeI/uNH3So5Gw7uOlU6vHo1NV69OPNVTt7jyek1QYSA6n7pq+4r3d3f0bzQ0v
+lvuXfnT35tqazOu5voxVM/3b7ls/+Pz5mx9kJsKj4rPv3TrkfJ6GilZfsuTzbVOK
+ytmUjK62ktIdzWOO/JWSvQx92piondPek6uW9y1+cKV1uJX17sbkhvUvBxO1m7r3
+nzm4oS2zZ2Kwf1NhddLcBOl7a0/60aJbpa2Nm3t+/PVM++C4jH3bfvG+3nw29TQt
+OJfT29o2Idb2N6Av/TY=
+  =EJl6
+-----END PGP MESSAGE-----
+  
+  And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/alexwhan
+
+==================================================================
+  
